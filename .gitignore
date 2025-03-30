@@ -20,6 +20,7 @@
 
 # RStudio files
 .Rproj.user/
+spatial_sure.Rproj
 
 # produced vignettes
 vignettes/*.html
