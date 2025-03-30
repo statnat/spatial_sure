@@ -1,4 +1,4 @@
-#' save.BYM Function
+#' save.BYM.iid4d Function
 #'
 #' Save INLA BYM model summary
 #' @param model the file name of the model
